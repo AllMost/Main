@@ -12,7 +12,7 @@ public class Health {
         System.out.println(health);
 
 
-        for (int i = 1; i < 11; i++) {
+        for (int i = 1; i <= 10; i++) {
             health += 10;
             System.out.println(health);
         }

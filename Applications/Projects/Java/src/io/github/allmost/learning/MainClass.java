@@ -37,5 +37,8 @@ public class MainClass {
         }
         System.out.println(sum);
 
+        int[][] secondArr = {{1,2,3},{4,5,6}};
+
+        System.out.println(secondArr[0][1]);
     }
 }

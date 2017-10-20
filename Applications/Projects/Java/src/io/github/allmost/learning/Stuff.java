@@ -4,7 +4,7 @@ public class Stuff {
 
     public static void main(String[] args) {
 
-        int cock = 4;
+        int cock = 2;
         switch (cock) {
             case 1:
                 System.out.println("1");
